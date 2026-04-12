@@ -24,7 +24,7 @@ response.setCharacterEncoding("UTF-8");
 
         body {
             font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, "Malgun Gothic", "맑은 고딕", sans-serif;
-            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            background: linear-gradient(135deg, #ff0000 0%, #cc0000 100%);
             min-height: 100vh;
             display: flex;
             align-items: center;
@@ -276,7 +276,7 @@ response.setCharacterEncoding("UTF-8");
 </head>
 <body>
     <div class="container">
-        <div class="logo">3TIER</div>
+        <div class="logo">3TIER-web index.jp 변경</div>
         <h1>3Tier Architecture Demo</h1>
         <p class="subtitle">
             현대적인 웹 애플리케이션 아키텍처를 체험해보세요<br>
